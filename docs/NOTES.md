@@ -1,0 +1,3 @@
+# swift-ripple-828 notes
+
+接口随时可能变，别依赖它。
